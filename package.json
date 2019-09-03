@@ -1,0 +1,12 @@
+{
+  "name": "codehesionmanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaysiz/codehesionmanager.git",
+  "author": "Kudakwashe Siziva <ksiziva@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
+}
