@@ -1,6 +1,6 @@
 from django.db import models
 
-class Leads(models.Model):
+class Lead(models.Model):
     # constants
     LEAD_ORIGIN = (
         ('Walkin', 'Walkin'),
